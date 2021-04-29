@@ -12,3 +12,5 @@ This program requires a CSV file (in this case, titled 'ready.csv') that contain
 - Applicant Submission Source
 - **Requisition Time to Fill**
 - **Candidates per req**
+
+*Note* Only bolded fields are absolutely necessary. The others are intended for future slice and dice analysis
