@@ -13,4 +13,4 @@ This program requires a CSV file (in this case, titled 'ready.csv') that contain
 - **Requisition Time to Fill**
 - **Candidates per req**
 
-*Note* Only bolded fields are absolutely necessary. The others are intended for future slice and dice analysis
+*Note:* Only bolded fields are absolutely necessary. The others are intended for future slice and dice analysis
